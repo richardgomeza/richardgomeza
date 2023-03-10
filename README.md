@@ -17,24 +17,11 @@ Actualmente estoy aprendiendo **Markdown** y comandos de la terminal de linux.
 ### Comandos alias
 Los comandos alias dan la posibilidad de crear atajos de los comandos que usamos normalmente, estos son dos ejemplos de comandos alias que yo uso.
 
-**alias cl='clear'**
+* **alias cl='clear'**
 _Limpia la pantalla_
 
-**alias npmd='npm run dev'**
+* **alias npmd='npm run dev'**
 _Levanta un servidor de desarrollo de forma local_
 
-
-<!--
-**richardgomeza/richardgomeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Esto hasta ahora, espero seguir aprendiendo y actualizando este archivo README.
+👌😘😎🧑‍💻
