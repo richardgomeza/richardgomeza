@@ -7,7 +7,7 @@ Desde muy pequeño he tenido gusto y cariño por la mecánica y la tecnología, 
 Actualmente estoy aprendiendo **Markdown** y comandos de la terminal de linux.
 ### Comandos de la terminal
 |**Comando**|**Descripción**|
-|---|---|
+|-----------|---------------|
 |pwd|Permite conocer la ruta del directorio actual|
 |cd|Permite cambiar de directorio|
 |ls|Permite conocer los archivos del directorio actual|
@@ -17,10 +17,10 @@ Actualmente estoy aprendiendo **Markdown** y comandos de la terminal de linux.
 ### Comandos alias
 Los comandos alias dan la posibilidad de crear atajos de los comandos que usamos normalmente, estos son dos ejemplos de comandos alias que yo uso.
 
-* **alias cl='clear'**
+* ```**alias cl='clear'**```
 _Limpia la pantalla_
 
-* **alias npmd='npm run dev'**
+* ```**alias npmd='npm run dev'**```
 _Levanta un servidor de desarrollo de forma local_
 
 Esto hasta ahora, espero seguir aprendiendo y actualizando este archivo README.
