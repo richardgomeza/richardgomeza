@@ -2,6 +2,9 @@
 
 ## Ingeniero Mecánico
 
+### Puedes encontrarme en **GitHub**
+ * https://github.com/richardgomeza
+
 Desde muy pequeño he tenido gusto y cariño por la mecánica y la tecnología, por tal razón decidí para mi vida estudiar Ingeniería Mecánica y también indagar en el mundo del desarrollo. Actualmente me encuentro desarrollando el bootcamp de Undefined Shell, donde espero aprender todas las habilidades para convertirme en un desarrollador Full Stack y así tener más oportunidades de mejorar mi calidad de vida.
 
 Actualmente estoy aprendiendo **Markdown** y comandos de la terminal de linux.
@@ -24,4 +27,5 @@ _Limpia la pantalla_
 _Levanta un servidor de desarrollo de forma local_
 
 Esto hasta ahora, espero seguir aprendiendo y actualizando este archivo README.
+
 👌😘😎🧑‍💻
